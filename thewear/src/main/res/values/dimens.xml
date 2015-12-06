@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size_clock">36dp</dimen>
+    <dimen name="digital_text_size_date">16dp</dimen>
+    <dimen name="digital_text_size_temp">24dp</dimen>
+    <dimen name="digital_y_offset">80dp</dimen>
+</resources>
